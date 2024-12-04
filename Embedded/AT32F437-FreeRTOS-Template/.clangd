@@ -1,0 +1,4 @@
+CompileFlags:
+  CompilationDatabase: build/cmake/
+  Add: 
+    - --target=arm-none-eabi

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 4,
+		"editor.insertSpaces": false,
+		"files.associations": {
+			"at32f435_437_conf.h": "c",
+			"at32f435_437_acc.h": "c",
+			"at32f435_437_usart.h": "c",
+			"mcu.h": "c",
+			"hal.h": "c",
+			"debug.h": "c"
+		},
+	}
+}

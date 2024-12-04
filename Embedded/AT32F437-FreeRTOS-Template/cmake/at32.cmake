@@ -1,0 +1,1 @@
+add_definitions(-DAT32F437ZMT7)
