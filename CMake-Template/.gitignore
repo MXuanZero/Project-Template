@@ -1,0 +1,7 @@
+## Commonly used CMake directories
+build/**
+bin/**
+
+## JetBrains IDE artifacts
+.idea
+cmake-build-*
